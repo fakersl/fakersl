@@ -1,5 +1,7 @@
 ## Olá!
 
+<!--https://img.shields.io/github/followers/fakersl.svg?style=social&label=Follow&maxAge=2592000-->
+
 Linguagens em que tenho conhecimento básico::
 
 <div style="display: inline_block"><br>
