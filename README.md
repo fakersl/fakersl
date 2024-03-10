@@ -9,3 +9,5 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=fakersl&show_icons=true" />
 </picture>
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/fakersl/github-readme-stats)
