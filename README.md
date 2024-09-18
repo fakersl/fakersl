@@ -1,4 +1,4 @@
-# Olá, eu sou O Predador! 🐍
+# Olá, eu sou o Gustavo! 🐍
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF5733&center=true&vCenter=true&width=435&lines=Bem-vindo+ao+meu+perfil!;Desenvolvedor+de+software+fullstack!)](https://git.io/typing-svg)
 
@@ -26,7 +26,7 @@
 ## 🚀 Minha Atividade:
 
 - **Commits no último ano:** ![GitHub Commit Activity](https://github-readme-streak-stats.herokuapp.com/?user=fakersl&theme=dracula)
-- **Recorde de Streak:** ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fakersl&theme=dracula&date_format=M%20j%5B%2C%20Y%5D)
+- **Recorde de Streak:** ![GitHub Streak][![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fakersl&theme=dark&locale=pt_BR)](https://git.io/streak-stats)
   
 ---
 
