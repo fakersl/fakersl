@@ -1,6 +1,6 @@
 # Olá, eu sou o Gustavo! 🐍
 
-[[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF5733&center=true&vCenter=true&width=435&lines=Bem-vindo+ao+meu+perfil!;Desenvolvedor+de+software+fullstack!)](https://git.io/typing-svg)](https://readme-typing-svg.herokuapp.com/demo/?size=24&color=7CB8FF&random=true&lines=Bem-vindo+ao+meu+Perfil!;Aprendiz+em+Desenvolv.+Web+%F0%9F%8C%90;Codando+sonhos+em+realidade+%F0%9F%9A%80)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF5733&center=true&vCenter=true&width=435&lines=Bem-vindo+ao+meu+perfil!;Desenvolvedor+de+software+fullstack!)](https://git.io/typing-svg)
 
 ## 🛠️ Tecnologias que utilizo:
 
@@ -26,11 +26,11 @@
 ## 🚀 Minha Atividade:
 
 - **Commits no último ano:** ![GitHub Commit Activity](https://github-readme-streak-stats.herokuapp.com/?user=fakersl&theme=dracula)
-- **Recorde de Streak:** ![GitHub Streak][![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fakersl&theme=dark&locale=pt_BR)](https://git.io/streak-stats)
+- **Recorde de Streak:** ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fakersl&theme=dracula&date_format=M%20j%5B%2C%20Y%5D)
   
 ---
 
-## 🐍 Animations!
+## 🐍 Animação de Contribuições!
 
 ![Snake animation](https://github.com/fakersl/fakersl/blob/output/github-contribution-grid-snake.svg)
 
@@ -38,15 +38,4 @@
 
 ## 📊 Minhas estatísticas:
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=fakersl&theme=dracula&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-## 📫 Entre em contato:
-
-- [LinkedIn](https://linkedin.com/in/seuperfil)
-- [Twitter](https://twitter.com/seuperfil)
-
----
-
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=fakersl.fakersl)
+[![Troféus](https://github-profile-trophy.ver
