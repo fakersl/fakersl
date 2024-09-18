@@ -44,9 +44,6 @@
 <div align="center">
   <h2>🐍 Minhas Contribuições 🐍</h2>
   <br>
-  ![Snake animation](https://github.com/fakersl/fakersl/blob/output/github-contribuition-grid-snake.svg)
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=fakersl&repo=fakersl&theme=react)](https://github.com/fakersl/fakersl)
-  
   <br/><br/><br/>
 </div>
 
