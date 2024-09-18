@@ -31,11 +31,11 @@
 
 <hr/>
 
-<h2 align="center">⚒️ Tecnologias que utilizo ⚒️</h2>
+<h2 align="center">⚒️ Linguagens, Frameworks e Ferramentas ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=tailwind,html,css,vscode,github,figma,bootstrap,photoshop,illustrator,aftereffects" />
-    <img src="https://skillicons.dev/icons?i=java,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,blender,c,cs,cpp,php" />
+    <img src="https://skillicons.dev/icons?i=java,mysql,npm,vscode,github,figma,ps,ai,ae,linux" /><br>
 </div>
 
 <br/>
