@@ -43,9 +43,9 @@
 
 <div align="center">
   <h2>🐍 Minhas Contribuições 🐍</h2>
-  <br>
+    
 ![snake gif](https://github.com/fakersl/fakersl/blob/output/github-contribution-grid-snake.gif)
-  <br/><br/><br/>
+
 </div>
 
 <hr/>
