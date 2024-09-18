@@ -1,52 +1,76 @@
-# Olá, eu sou o Gustavo! 🐍
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=fakersl.fakersl" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=7CB8FF&random=true&width=435&lines=Bem-vindo+ao+meu+Perfil!;Aprendiz+em+Desenvolv.+Web+%F0%9F%8C%90;Codando+sonhos+em+realidade+%F0%9F%9A%80)](https://git.io/typing-svg)
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;+Eu+sou+Gustavo!;" />
+</h1>
 
-## 🛠️ Tecnologias que utilizo:
+<h3 align="center">Desenvolvedor fullstack apaixonado por tecnologia do Brasil 🇧🇷</h3>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="Tailwind" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
-  <img align="center" alt="CSharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="CPlusPlus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+<br/>
+
+<div align="center">
+ 
+ 🔭 Atualmente estou trabalhando em **um projeto de votação em React**
+ 
+ 🌱 Estou aprendendo **Docker, Supabase, e AWS**
+
+💬 Me pergunte sobre **Node.js, React, Firebase... ou qualquer coisa [aqui](https://github.com/fakersl/fakersl/issues)**
+
+⚡ Curiosidade divertida: **As capas da Patrulha da Noite em Game of Thrones são feitas de tapetes da Ikea**
+
+ </div>
+ 
+<div align="center"> 
+  <a href="mailto:gustavo.email@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/seuperfil" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://fakersl.github.io" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
+  </a>
 </div>
 
----
+<hr/>
 
-## 🌟 Minhas Contribuições:
+<h2 align="center">⚒️ Tecnologias que utilizo ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,tailwind,html,css,vscode,github,figma,nodejs,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,express,firebase,mongodb,csharp,java,nextjs,mysql" /><br>
+</div>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=fakersl&show_icons=true&theme=dracula)
-[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=fakersl&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
+<hr/>
 
----
+<div align="center">
+  <h2>🐍 Minhas Contribuições 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/fakersl/fakersl/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 
-## 🚀 Minha Atividade:
+<hr/>
 
-- **Commits no último ano:** ![GitHub Commit Activity](https://github-readme-streak-stats.herokuapp.com/?user=fakersl&theme=dracula)
-- **Recorde de Streak:** ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fakersl&theme=dracula&date_format=M%20j%5B%2C%20Y%5D)
+<h2 align="center">⚡ Estatísticas ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=fakersl&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=fakersl&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fakersl&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
 
----
+<br/><br/>
 
-## 🐍 Animação de Contribuições!
+<hr/>
 
-![Snake animation](https://github.com/fakersl/fakersl/blob/output/github-contribution-grid-snake.svg)
+<br/>
 
----
+<div align="center">
+<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+</div>
 
-## 📊 Minhas estatísticas:
-
-[![Troféus](https://github-profile-trophy.vercel.app/?username=fakersl&theme=dracula&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-## 📫 Entre em contato:
-
-- [LinkedIn](https://linkedin.com/in/seuperfil)
-- [Twitter](https://twitter.com/seuperfil)
-
----
-
-![Visitantes](https://visitor-badge.laobi.icu/badge?page_id=fakersl.fakersl)
+<br/>
