@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;+Eu+sou+Gustavo!;" />
 </h1>
 
-<h3 align="center">Desenvolvedor fullstack apaixonado por tecnologia do Brasil 🇧🇷</h3>
+<h3 align="center">Aprendendo programação, apaixonado por tecnologia, do Brasil 🇧🇷</h3>
 
 <br/>
 
@@ -12,22 +12,19 @@
  
  🔭 Atualmente estou trabalhando em **um projeto de votação em React**
  
- 🌱 Estou aprendendo **Docker, Supabase, e AWS**
+ 🌱 Estou aprendendo **React, Flowbite, e Angular**
 
-💬 Me pergunte sobre **Node.js, React, Firebase... ou qualquer coisa [aqui](https://github.com/fakersl/fakersl/issues)**
+💬 Me pergunte sobre **Tailwind, Bootstrap, PHP ou qualquer coisa [aqui](https://github.com/fakersl/fakersl/issues)**
 
 ⚡ Curiosidade divertida: **As capas da Patrulha da Noite em Game of Thrones são feitas de tapetes da Ikea**
 
  </div>
  
 <div align="center"> 
-  <a href="mailto:gustavo.email@gmail.com">
+  <a href="mailto:zgustovo13365@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/seuperfil" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://fakersl.github.io" target="_blank">
+  <a href="#" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
   </a>
 </div>
@@ -37,8 +34,8 @@
 <h2 align="center">⚒️ Tecnologias que utilizo ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,tailwind,html,css,vscode,github,figma,nodejs,bootstrap" />
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,express,firebase,mongodb,csharp,java,nextjs,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=tailwind,html,css,vscode,github,figma,bootstrap,photoshop,illustrator,aftereffects" />
+    <img src="https://skillicons.dev/icons?i=javascript,csharp,java,mysql" /><br>
 </div>
 
 <br/>
