@@ -9,9 +9,9 @@
 <br/>
 
 <div align="center">
-  <p>🔭 *Meu ultimo trabalho foi** <b>um site empresarial feito em React e ExpressJS</b></p>
-  <p>🌱 *Estou aprendendo** <b>React, Flowbite, e Angular</b></p>
-  <p>💬 *Me pergunte sobre** <b>Tailwind, Bootstrap, PHP ou qualquer coisa* [aqui](https://github.com/fakersl/fakersl/issues)</p>
+  <p>🔭 *Meu ultimo trabalho foi* <b>um site empresarial feito em React e ExpressJS</b></p>
+  <p>🌱 *Estou aprendendo* <b>React, Flowbite, e Angular</b></p>
+  <p>💬 *Me pergunte sobre* <b>Tailwind, Bootstrap, PHP ou qualquer coisa* [aqui](https://github.com/fakersl/fakersl/issues)</p>
   <p>⚡ *Sempre em busca de novos desafios e aprendizados!*</p>
 </div>
  
