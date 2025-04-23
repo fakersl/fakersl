@@ -29,10 +29,12 @@
 
 <h2 align="center">⚒️ Linguagens, Frameworks e Ferramentas ⚒️</h2>
 
+<h2 align="center">⚒️ Linguagens, Frameworks e Ferramentas ⚒️</h2>
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,blender,c,cs,cpp,php" alt="tech stack 1"/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,java,c,cpp,cs,tailwind,bootstrap,express,socketio" alt="linguagens e frameworks 1"/>
   <br/>
-  <img src="https://skillicons.dev/icons?i=java,mysql,npm,vscode,github,figma,ps,ai,ae,linux" alt="tech stack 2"/>
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgresql,npm,vscode,github,linux,figma,ps,ai,ae" alt="ferramentas 2"/>
 </div>
 
 <hr/>
