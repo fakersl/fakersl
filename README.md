@@ -44,13 +44,8 @@
 <hr/>
 
 <h2 align="center">🐍 Minhas Contribuições 🐍</h2>
-
 <div align="center">
-  <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fakersl&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fakersl&layout=compact&theme=radical&hide_border=true" />
-</p>
+  <img src="https://raw.githubusercontent.com/fakersl/fakersl/output/github-contribution-grid-snake.gif" alt="snake gif" />
 </div>
 
 <hr/>
