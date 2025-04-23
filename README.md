@@ -4,15 +4,14 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;+Eu+sou+Gustavo!;" />
 </h1>
 
-<h3 align="center">Aprendendo programação, apaixonado por tecnologia, do Brasil 🇧🇷</h3>
+<h3 align="center">Desenvolvedor Fullstack, apaixonado por tecnologia, do Brasil 🇧🇷</h3>
 
 <br/>
 
 <div align="center">
-  <p>🔭 *Meu ultimo trabalho foi* <b>um site empresarial feito em React e ExpressJS</b></p>
-  <p>🌱 *Estou aprendendo* <b>React, Flowbite, e Angular</b></p>
-  <p>💬 *Me pergunte sobre* <b>Tailwind, Bootstrap, PHP ou qualquer coisa* [aqui](https://github.com/fakersl/fakersl/issues)</p>
-  <p>⚡ *Sempre em busca de novos desafios e aprendizados!*</p>
+  <p>🔭 Meu ultimo trabalho foi <b>um site empresarial feito em React e ExpressJS</b></p>
+  <p>💬 Me pergunte sobre <b>Tailwind, Bootstrap, PHP ou qualquer coisa [aqui](https://github.com/fakersl/fakersl/issues)</p>
+  <p>⚡ Sempre em busca de novos desafios e aprendizados!</p>
 </div>
  
 <br/>
