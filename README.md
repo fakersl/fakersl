@@ -28,23 +28,15 @@
 <hr/>
 
 <h2 align="center">⚒️ Linguagens, Frameworks e Ferramentas ⚒️</h2>
-
-### 🧠 Tecnologias que domino:
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,php,tailwind,bootstrap,git,vscode,github,figma,ps" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=java,cs,cpp,c,powershell,postgres,mysql,sqlite,npm,linux,ai,ae" />
 </p>
 
-### 🧪 Tecnologias que já usei com segurança:
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,cs,cpp,c,portugol,express,jquery,mysql,sqlite,npm,linux,ai,ae" />
-</p>
 
-### 🌱 Explorando / Aprendendo:
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,socketio,powershell" />
-</p>
 
-### 🧰 Outras ferramentas que uso:
+<h4 align="center">🧰 Outras ferramentas que uso:</h4> 
 <p align="center">
   brModelo • XAMPP • WAMP • VirtualBox • pfSense • GitHub Pages • Vercel • Render • Flowbite • DaisyUI • ScrollReveal
 </p>
@@ -54,7 +46,11 @@
 <h2 align="center">🐍 Minhas Contribuições 🐍</h2>
 
 <div align="center">
-  <img src="https://github.com/fakersl/fakersl/blob/output/github-contribution-grid-snake.gif" alt="snake gif" />
+  <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fakersl&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fakersl&layout=compact&theme=radical&hide_border=true" />
+</p>
 </div>
 
 <hr/>
