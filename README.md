@@ -29,14 +29,22 @@
 
 <h2 align="center">⚒️ Linguagens, Frameworks e Ferramentas ⚒️</h2>
 
+### 🧠 Tecnologias que domino:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,java,c,cpp,cs,portugol,tailwind,bootstrap,express,socketio,jquery" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres,npm,figma,ps,ai,ae,vscode,github,linux" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,tailwind,bootstrap,git,vscode,github,figma,ps" />
 </p>
 
-<h4 align="center">Outras ferramentas que uso:</h4>
+### 🧪 Tecnologias que já usei com segurança:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,cs,cpp,c,portugol,express,jquery,mysql,sqlite,npm,linux,ai,ae" />
+</p>
 
+### 🌱 Explorando / Aprendendo:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,socketio,powershell" />
+</p>
+
+### 🧰 Outras ferramentas que uso:
 <p align="center">
   brModelo • XAMPP • WAMP • VirtualBox • pfSense • GitHub Pages • Vercel • Render • Flowbite • DaisyUI • ScrollReveal
 </p>
