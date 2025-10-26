@@ -46,12 +46,12 @@ I'm a **Full Stack Developer** passionate about creating modern, simple but well
 
 ### 🎨 Frontend & UI
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,bootstrap,tailwind,shadcn,radix" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,bootstrap,tailwind,materialui,shadcn,radix" />
 </p>
 
 ### ⚙️ Backend, Languages & Automation
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,java,cs,cpp,c,python,discordjs,bots,robloxstudio" />
+  <img src="https://skillicons.dev/icons?i=nodejs,php,java,cs,cpp,c,discordjs,bots,robloxstudio" />
 </p>
 
 ### 🧰 DevOps, Databases & Tools
