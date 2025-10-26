@@ -2,7 +2,7 @@
   
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=triallure.triallure)
   
-# 👋 Hi, I'm Gustavo
+# 👋 Hi, I'm Feiqqer.
   
 <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&pause=1000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Cloud+Enthusiast;Open+Source+Contributor;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
   
