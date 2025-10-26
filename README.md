@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://discord.com/users/964439680160522250">
-    <img src="https://lanyard.cnrad.dev/api/964439680160522250?theme=dark&borderRadius=20px" alt="Discord Rich Presence - feiqqer." />
+    <img src="https://lanyard.cnrad.dev/api/964439680160522250?theme=dark&bg=7289da&borderRadius=20px&animated=true&showDisplayName=true" alt="Discord Rich Presence - feiqqer." />
   </a>
 </p>
 
