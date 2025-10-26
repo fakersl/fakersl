@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://discord.com/users/964439680160522250">
-    [![Discord Presence](https://lanyard.cnrad.dev/api/964439680160522250?hideBadges=true&showDisplayName=true&theme=dark)](https://discord.com/users/964439680160522250)
+    <img src="https://lanyard.cnrad.dev/api/964439680160522250?hideBadges=true&showDisplayName=true&theme=dark&borderRadius=15px&animated=true" alt="Discord Rich Presence - feiqqer." />
   </a>
 </p>
 
@@ -93,9 +93,3 @@ learning:
 ---
 
 <p align="center"><i>✨ Always improving. Always building.</i></p>
-
-<p align="center">
-  <a href="https://discord.com/users/964439680160522250">
-    <img src="https://lanyard.cnrad.dev/api/964439680160522250?theme=dark&borderRadius=10px" alt="Discord Status"/>
-  </a>
-</p>
