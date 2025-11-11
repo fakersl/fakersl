@@ -10,11 +10,11 @@
 
 ---
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://discord.com/users/964439680160522250">
     <img src="https://lanyard.cnrad.dev/api/964439680160522250?hideBadges=true&showDisplayName=true&theme=dark&borderRadius=15px&animated=true" alt="Discord Rich Presence - feiqqer." />
   </a>
-</p>
+</p> -->
 
 ---
 
