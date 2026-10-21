@@ -30,7 +30,7 @@ const gustavo = {
 
 <br/>
 
-## ▍ Stack
+## Stack
 
 <table align="center">
   <tr>
@@ -97,7 +97,7 @@ const gustavo = {
 
 <br/>
 
-## ▍ Activity
+## Activity
 
 <div align="center">
 
